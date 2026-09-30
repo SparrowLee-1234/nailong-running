@@ -1,2 +1,1 @@
-奶龙跑酷# -
-这是我vibe coding的第一个项目，这是一个跑酷游戏
+[奶龙跑酷游戏 - 项目说明.docx](https://github.com/user-attachments/files/32842102/-.docx)
